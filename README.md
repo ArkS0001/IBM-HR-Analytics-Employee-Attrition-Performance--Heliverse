@@ -13,7 +13,10 @@ To install these dependencies, you can use pip, Python's package manager
 
     pip install pandas scikit-learn xgboost tensorflow numpy
 
-Execute-"Ibm_Employee_Attrition.py"
+Execute
+
+    Ibm_Employee_Attrition.py
+    Ibm_Employee_Attrition.ipynb
 
 ![200w](https://github.com/ArkS0001/IBM-HR-Analytics-Employee-Attrition-Performance--Heliverse/assets/113760964/38822aee-6aa0-44e2-8d49-d7e031ed801e)
 
